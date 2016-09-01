@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Tiger Sweet</title>
+  <subtitle>Chinese homemade Bakery</subtitle>
+  <link href="/TigerSweet/atom.xml" rel="self"/>
+  
+  <link href="https://maxisam.github.io/TigerSweet/"/>
+  <updated>2016-09-01T14:36:20.658Z</updated>
+  <id>https://maxisam.github.io/TigerSweet/</id>
+  
+  <author>
+    <name>Sam Lin</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>4 inch fruit cake</title>
+    <link href="https://maxisam.github.io/TigerSweet/2016/08/31/4-inch-fruit-cake/"/>
+    <id>https://maxisam.github.io/TigerSweet/2016/08/31/4-inch-fruit-cake/</id>
+    <published>2016-09-01T03:05:17.000Z</published>
+    <updated>2016-09-01T14:36:20.658Z</updated>
+    
+    <content type="html"><![CDATA[<p>Strawberry and pineapple fruit cake, the best combination! So sweet!</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Strawberry and pineapple fruit cake, the best combination! So sweet!&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="dessert" scheme="https://maxisam.github.io/TigerSweet/tags/dessert/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Xue Meiniang</title>
+    <link href="https://maxisam.github.io/TigerSweet/2016/08/19/Xue-Meiniang/"/>
+    <id>https://maxisam.github.io/TigerSweet/2016/08/19/Xue-Meiniang/</id>
+    <published>2016-08-19T20:50:47.000Z</published>
+    <updated>2016-08-19T23:40:20.348Z</updated>
+    
+    <content type="html"><![CDATA[<p>Our special Chinese Xue Meiniang is one of the most popular desserts. It has kinds of fruits inside. Try it, you will feel something special when you bite it. ^ ^</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Our special Chinese Xue Meiniang is one of the most popular desserts. It has kinds of fruits inside. Try it, you will feel something spec
+    
+    </summary>
+    
+    
+      <category term="dessert" scheme="https://maxisam.github.io/TigerSweet/tags/dessert/"/>
+    
+  </entry>
+  
+</feed>

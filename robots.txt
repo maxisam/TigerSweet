@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: /2016/
+Allow: /archives/
+Allow: /about/
+Allow: /categories/
+Allow: /tags/ 
+Disallow: /vendors/
+Disallow: /js/
+Disallow: /css/
+Disallow: /sass/
+Disallow: /fonts/
+
+Sitemap: https://maxisam.github.io/TigerSweet/sitemap.xml
